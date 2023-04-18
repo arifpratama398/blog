@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'id-id'
+title = 'Arif N. Pratama'
+theme = 'archie'
